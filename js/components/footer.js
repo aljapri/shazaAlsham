@@ -38,7 +38,7 @@ let footerContent = `         <div class="container py-5">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a href="#">Your Site Name</a>, ShazaAlsham.
+                        &copy; <a href="#">ShazaAlsham</a>.
                     </div>
                 </div>
             </div>
