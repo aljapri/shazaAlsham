@@ -22,10 +22,18 @@ let navbarContent = `        <div class="top-bar row gx-0 align-items-center d-n
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto p-4 p-lg-0">
-                    <a href="index.html" class="nav-item nav-link active">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About Us</a>
-                    <a href="product.html" class="nav-item nav-link">Products</a>
-                    <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                    <a href="contact.html" class="nav-item nav-link"> عربي </a>
+                    <a href="contact.html" class="nav-item nav-link"> أنجليزي </a>
+                    <a href="product.html" class="nav-item nav-link">عملائنا</a>
+                    <a href="contact.html" class="nav-item nav-link"> شهادة حلال</a>
+                    <a href="contact.html" class="nav-item nav-link"> ادارة الشركة </a>
+                    <a href="contact.html" class="nav-item nav-link">  فرص العمل</a>
+                    <a href="contact.html" class="nav-item nav-link">  الدرة ماركت</a>
+                    <a href="contact.html" class="nav-item nav-link">  سياسة الجودة</a>
+                    <a href="contact.html" class="nav-item nav-link">  اتصل بنا</a>
+                    <a href="about.html" class="nav-item nav-link">من نحن</a>
+                    <a href="index.html" class="nav-item nav-link active">الرئيسية</a>
+
                 </div>
 
             </div>
